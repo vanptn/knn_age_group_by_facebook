@@ -4,7 +4,7 @@ Demo phân tích độ tuổi từ các nhóm facebook
 
 ## Installation
 
-- git clone https://github.com/Nam-T/age_analysis.git
+- git clone https://github.com/vanptn/knn_age_group_by_facebook.git
 - setup env
 
 ## Build
