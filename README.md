@@ -10,5 +10,5 @@ Demo phân tích độ tuổi từ các nhóm facebook
 ## Build
 
 - Run file export_group.py
-- Run file clean_data.py
+- Run file clean_data_test.py
 - Run file train.py
